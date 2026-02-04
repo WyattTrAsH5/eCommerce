@@ -19,3 +19,8 @@ This is a website to learn the fundamentals of ASP.NET Core MVC (Model View Cont
 - Entity Framework Core
 - Bootstrap 5
 - HTML/CSS/JS
+
+### Coding Resources used
+- W3Schools
+- Stack Overflow
+- Minimal github Copilot
