@@ -1,8 +1,7 @@
 ﻿@model eCommerce.Models.RegisterViewModel
-
 <h2>Register</h2>
-
 <form asp-action="Register" method="post">
+    <div asp-validation-summary="All" class="text-danger"></div>
     <div class="mb-3">
         <label asp-for="Email" class="form-label"></label>
         <input asp-for="Email" class="form-control" />
