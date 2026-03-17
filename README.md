@@ -19,3 +19,4 @@ This is a website to learn the fundamentals of ASP.NET Core MVC (Model View Cont
 - W3Schools
 - Stack Overflow
 - Minimal GitHub Copilot
+- Miimal Claude.AI
